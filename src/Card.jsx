@@ -8,7 +8,7 @@ export const Card = () => {
       <div className="w-1/3 mx-auto">
         <div className="flex flex-col justify-center h-screen ">
           <div className="bg-blanco rounded-xl p-4 shadow-lg">
-            <img src="src/assets/img/cactus_img.jpg" 
+            <img src="https://res.cloudinary.com/dytlbyofu/image/upload/v1709742869/Challenge-dev/cactus_img_g1ipco.jpg" 
                   alt="card-image"
                   className="rounded-xl object-contain" 
             ></img>
